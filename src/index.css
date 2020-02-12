@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sa-list{
+  background-color: lightcyan;
+  padding: 15px;
+  margin: 15px;
+  cursor: pointer;
+}
+.sa-list:hover{
+  box-shadow: 1px 1px 5px black;
+}
